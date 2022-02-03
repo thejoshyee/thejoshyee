@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thejoshyee
-- 👀 I’m interested in coding!
-- 🌱 I’m currently learning as much as possible!
+- 👀 I’m interested in becoming a Front-End Developer!
+- 🌱 I’m currently building and learning as much as possible!
 - 💞️ I’m looking to collaborate with awesome people!
 - 📫 How to reach me twitter.com/joshyee
 
