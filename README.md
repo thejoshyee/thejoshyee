@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thejoshyee
+- 👋 Hi, my name's Josh! 
 - 👀 I’m interested in becoming a Front-End Developer!
 - 🌱 I’m currently building and learning as much as possible!
 - 💞️ I’m looking to collaborate with awesome people!
