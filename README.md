@@ -1,5 +1,5 @@
 # 👋 Hi, my name's Josh! 
-- 🔥 I am a Jr. Software Developer!
+- 🔥 I am a Software Developer!
 - 🌱 I’m currently building and learning as much as possible!
 - 💞️ I’m looking to collaborate with awesome people!
 - 📫 Reach me @ twitter.com/joshyee
