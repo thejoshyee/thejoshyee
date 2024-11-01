@@ -1,10 +1,8 @@
-# 👋 Hi, my name's Josh! 
-- 🔥 I am a Software Developer!
-- 🌱 I’m currently building and learning as much as possible!
-- 💞️ I’m looking to collaborate with awesome people!
-- 📫 Reach me @ twitter.com/joshyee
-
-<!---
-thejoshyee/thejoshyee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ __      __          ___                                        
+/\ \  __/\ \        /\_ \                                       
+\ \ \/\ \ \ \     __\//\ \     ___    ___     ___ ___      __   
+ \ \ \ \ \ \ \  /'__`\\ \ \   /'___\ / __`\ /' __` __`\  /'__`\ 
+  \ \ \_/ \_\ \/\  __/ \_\ \_/\ \__//\ \L\ \/\ \/\ \/\ \/\  __/ 
+   \ `\___x___/\ \____\/\____\ \____\ \____/\ \_\ \_\ \_\ \____\
+    '\/__//__/  \/____/\/____/\/____/\/___/  \/_/\/_/\/_/\/____/
+    Hi, my name's Josh! Let's build!
